@@ -1,5 +1,5 @@
 import React, { useContext, useEffect, useState } from 'react'
-import Login from './components/Auth/login'
+import Login from './components/Auth/Login'
 import EmployeeDash from './components/Dashboard/EmployeeDash'
 import AdminDash from './components/Dashboard/AdminDash'
 import { getLocalStorage, setLocalStorage } from './utils/localstorage'
